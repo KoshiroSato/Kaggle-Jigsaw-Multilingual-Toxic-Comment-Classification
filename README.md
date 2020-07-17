@@ -1,7 +1,7 @@
 # Jigsaw Multilingual Toxic Comment Classification
 https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 
-このリポジトリでは、Kaggle Jigsaw Multilingual Toxic Comment Classificationにて、157位(銅メダル)を獲得した際に使用したノートブックを公開しています。私は、Dezso Ribli氏が公開していた2つのノートブック(roBERTaのファインチューニングとトレーニング)をスターターとしてコンペティションを始めました。
+このリポジトリでは、Kaggle Jigsaw Multilingual Toxic Comment Classificationにて、157位(銅メダル)を獲得した際に使用したノートブックを公開しています。私は、Dezso Ribli氏が公開していた2つのノートブック(xlm-roBERTaのファインチューニングとトレーニング)をスターターとしてコンペティションを始めました。
 
 https://www.kaggle.com/riblidezso/finetune-xlm-roberta-on-jigsaw-test-data-with-mlm
 
