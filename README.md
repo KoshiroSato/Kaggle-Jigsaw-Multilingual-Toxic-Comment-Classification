@@ -4,6 +4,7 @@ https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 このリポジトリでは、Kaggle Jigsaw Multilingual Toxic Comment Classificationにて、157位(銅メダル)を獲得した際に使用したノートブックを公開しています。私は、Dezso Ribli氏が公開していた2つのノートブック(roBERTaのファインチューニングとトレーニング)をスターターとしてコンペティションを始めました。
 
 https://www.kaggle.com/riblidezso/finetune-xlm-roberta-on-jigsaw-test-data-with-mlm
+
 https://www.kaggle.com/riblidezso/train-from-mlm-finetuned-xlm-roberta-large
 
 ファインチューニングでは、元の競技トレーニングデータ(英語)をYandexAPIを使用して6ヶ国語に翻訳された外部データセットと競技テストデータを使用しています。ファインチューニングされたモデルは、input/fine-tuned-modelディレクトリに格納されています。
