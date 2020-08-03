@@ -16,14 +16,6 @@ https://www.kaggle.com/riblidezso/train-from-mlm-finetuned-xlm-roberta-large
 
 の2種類があります。
 
-使用した外部データセット
-
-https://www.kaggle.com/miklgr500/jigsaw-train-multilingual-coments-google-api
-
-https://www.kaggle.com/ma7555/jigsaw-train-translated-yandex-api
-
-https://www.kaggle.com/alansun17904/toxic-comment-detection-multilingual-extended
-
 提出に当たってはそれら2つのモデルの推論と合わせて、the1owl氏の公開ノートブックとハードコーディングによる重み付けをし、アンサンブル後に提出しています。
 (Private Score: 0.9462, Public Score: 0.9474)
 
@@ -32,3 +24,11 @@ the1owl氏の公開ノートブック
 https://www.kaggle.com/jazivxt/howling-with-wolf-on-l-genpresse
 
 環境は、KaggleNotebooksで、すべてTPUを使ってトレーニングされています。
+
+#使用した外部データセット
+
+https://www.kaggle.com/miklgr500/jigsaw-train-multilingual-coments-google-api
+
+https://www.kaggle.com/ma7555/jigsaw-train-translated-yandex-api
+
+https://www.kaggle.com/alansun17904/toxic-comment-detection-multilingual-extended
