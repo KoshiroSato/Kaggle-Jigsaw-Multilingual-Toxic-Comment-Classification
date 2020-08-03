@@ -25,7 +25,7 @@ https://www.kaggle.com/jazivxt/howling-with-wolf-on-l-genpresse
 
 環境は、KaggleNotebooksで、すべてTPUを使ってトレーニングされています。
 
-#使用した外部データセット
+## 使用した外部データセット
 
 https://www.kaggle.com/miklgr500/jigsaw-train-multilingual-coments-google-api
 
