@@ -19,7 +19,7 @@ https://www.kaggle.com/riblidezso/train-from-mlm-finetuned-xlm-roberta-large
 
 #### ./src/mlm-finetuned-xlm-r-large.ipynb
 
-・イタリア語のヘイトスピーチ検出のデータセット(前処理で絵文字と英数字以外の記号類を除去)を追加し、拡張されたデータセットでトレーニングしたモデル(Private Score: 0.9428, Public Score: 0.9431)
+・イタリア語のTweetとFacebookコメントのデータセット(前処理で絵文字と英数字以外の記号類を除去)を追加し、拡張されたデータセットでトレーニングしたモデル(Private Score: 0.9428, Public Score: 0.9431)
 
 #### ./src/mlm-finetuned-xlm-r-large_with-extended-datasets.ipynb
 
