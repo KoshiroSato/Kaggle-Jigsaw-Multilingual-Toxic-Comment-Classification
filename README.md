@@ -15,7 +15,7 @@ https://www.kaggle.com/riblidezso/train-from-mlm-finetuned-xlm-roberta-large
 
 ## トレーニング
 
-コンペティショントレーニングデータ(英語)をGoogleAPIを使用して6ヶ国語に翻訳された外部データセットを使用しトレーニングしたモデル(Public Score: 0.9425, Private Score: 0.9409)
+コンペティショントレーニングデータ(英語)をGoogleAPIを使用して6ヶ国語に翻訳された外部データセットを使用し、トレーニングしたモデル(Public Score: 0.9425, Private Score: 0.9409)
 
 #### ./src/mlm-finetuned-xlm-r-large.ipynb
 
