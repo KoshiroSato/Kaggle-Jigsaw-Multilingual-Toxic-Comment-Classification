@@ -8,7 +8,7 @@ https://www.kaggle.com/riblidezso/finetune-xlm-roberta-on-jigsaw-test-data-with-
 https://www.kaggle.com/riblidezso/train-from-mlm-finetuned-xlm-roberta-large
 
 ## ファインチューニング
-コンペティショントレーニングデータ(英語)をYandexAPIを使用して6ヶ国語に翻訳された外部データセットとコンペティションテストデータを使用しています。
+コンペティショントレーニングデータ(英語)をYandexAPIを使用して、6ヶ国語に翻訳された外部データセットとコンペティションテストデータを使用しています。
 
 #### ./src/finetune-xlm-roberta-on-jigsaw-test-data-with-mlm.ipynb
 
